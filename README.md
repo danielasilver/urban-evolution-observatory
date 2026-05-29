@@ -1,42 +1,91 @@
 # Urban Evolution Observatory
 
-The Urban Evolution Observatory publishes evidence about how cities change.
+The Urban Evolution Observatory studies how cities change.
 
-It follows a simple idea: urban theory should learn from evidence. Each report starts with a claim about urban evolution, translates that claim into observable measures, tests what the available data can actually show, and then says how the claim should change.
+It grows out of the Theory of Urban Evolution Model, or TUEM: a way of thinking about cities as changing combinations of physical form, groups, and activities. Streets, buildings, residents, organizations, institutions, businesses, services, and everyday routines all have their own histories. Urban evolution happens as these histories become linked, persist, weaken, or recombine.
 
-The Observatory focuses on three parts of urban life:
+The Observatory publishes the public record of a self-evolving research system. Its job is to generate propositions about urban evolution, test them against evidence, revise them, and use those revisions to ask sharper questions.
 
-- **Physical form:** streets, parcels, buildings, and the spatial structure of the city.
-- **Groups:** residents, organizations, institutions, and publics that use a place.
-- **Activities:** establishments, services, routines, land uses, and everyday urban functions.
+## The Core Question
 
-The central question is how these parts combine over time. Some patterns persist. Some disappear. Some places recombine older pieces into new arrangements. The reports here ask when that happens, how strongly the data support it, and what remains uncertain.
+How do cities inherit the past while producing new forms of urban life?
 
-## What This Site Publishes
+A neighborhood may keep its street pattern while its residents and uses change. A corridor may attract new services before its buildings or road network visibly shift. A district may inherit a layout that makes some later changes easy and others difficult. A downtown block may combine old buildings, new publics, and new activities into a pattern that did not exist before.
 
-- **Weekly digests:** short, chart-led reports on one finding, puzzle, or revision.
-- **Mini-studies:** fuller proposition reports that explain the intuition, measures, evidence, and interpretation.
-- **Monthly syntheses:** summaries of how the evidence changed the working theory.
-- **Figures and tables:** public materials needed to inspect the reported results.
-- **Methods notes:** plain-language explanations of evidence standards, scope, and limitations.
+TUEM gives the Observatory a grammar for these questions.
 
-## How To Read The Reports
+- **Physical form** means streets, parcels, buildings, infrastructure, and spatial structure.
+- **Groups** means residents, organizations, institutions, publics, and social populations.
+- **Activities** means establishments, services, routines, land uses, and everyday functions.
 
-The reports are not written as victory laps. A good result can support a claim, weaken it, split it into narrower claims, or show that the available data are not yet good enough. Uncertainty is part of the output.
+The reports ask how these parts become connected over time, how those connections endure, and when they are rearranged into new urban combinations.
 
-Each public report should answer five questions:
+## How The System Evolves
+
+The Observatory begins with propositions.
+
+A proposition is a claim about urban evolution. It might say that inherited street structure shapes later change, that activity change appears before physical change, or that some places are better positioned to recombine old urban pieces into new arrangements.
+
+Each report asks what the proposition would look like in evidence. It defines what the data can observe, what they can only approximate, and what would count as support or challenge. The result then changes the proposition.
+
+A proposition can become stronger. It can become narrower. It can split into two claims. It can reveal a missing dataset. It can open a new direction.
+
+That is the self-evolving part: the theory changes through its encounters with evidence.
+
+## What The Observatory Publishes
+
+### Weekly Digests
+
+Weekly digests are short, chart-led reports on one finding or puzzle.
+
+Current digest:  
+[When The Street Network Remembers](https://danielasilver.github.io/urban-evolution-observatory/reports/weekly_digest/2026-W23-street-network-remembers.html)
+
+### Mini-Studies
+
+Mini-studies are fuller proposition reports. They explain the claim, give a concrete urban example, translate the theory into measures, report the evidence, and state how the proposition should change.
+
+Current mini-study:  
+[Does Early Context Produce Later Urban Recombination?](https://danielasilver.github.io/urban-evolution-observatory/reports/mini_studies/early-context-urban-recombination.html)
+
+### Monthly Syntheses
+
+Monthly syntheses describe how recent evidence changes the larger theory.
+
+Current synthesis:  
+[What The First Test Changed](https://danielasilver.github.io/urban-evolution-observatory/reports/monthly_synthesis/2026-06-first-test-update.html)
+
+## How To Read The Evidence
+
+The reports make uncertainty visible.
+
+A result may support a proposition, weaken it, split it, or show that the available data are too blunt for the question. Mixed evidence matters because it shows where the theory needs more precision.
+
+Each report should answer five questions:
 
 1. What urban claim is being examined?
-2. What should a reader picture in the city?
-3. What do the data observe directly, and what do they only proxy?
-4. What would count as support, challenge, or contrary evidence?
-5. How should the theory change after the evidence?
+2. What should a reader picture in an actual city?
+3. What do the data observe directly?
+4. What do the data only approximate?
+5. How should the proposition change after the evidence?
 
-## Current Preview
+## Current Preview Finding
 
-The first preview report asks whether earlier movement in groups and activities predicts later street-network recombination. The answer is mixed: broad group and activity measures do not carry the result, while inherited street structure does. That does not close the question. It splits it into a physical branch and an activity branch.
+The first public report asks whether earlier movement in groups and activities predicts later physical recombination in the street network.
 
-- [Weekly digest: When The Street Network Remembers](reports/weekly_digest/2026-W23-street-network-remembers.html)
-- [Mini-study: Does Early Context Produce Later Urban Recombination?](reports/mini_studies/early-context-urban-recombination.html)
-- [Monthly synthesis: What The First Test Changed](reports/monthly_synthesis/2026-06-first-test-update.html)
+The result is mixed. Broad measures of group and activity movement do not clearly predict later recombination-oriented street change. Inherited street structure matters much more.
+
+The proposition now splits into two branches.
+
+One branch studies physical recombination, with inherited form treated as an active constraint. The other branch studies activity recombination, which needs finer-grained evidence on establishments, routines, and uses.
+
+This is the purpose in miniature: a proposition meets evidence, the evidence changes the proposition, and the next question becomes sharper.
+
+## Public Materials
+
+- [Observatory homepage](https://danielasilver.github.io/urban-evolution-observatory/)
+- [Methods note](https://danielasilver.github.io/urban-evolution-observatory/about/methods.html)
+- [Evidence standards](https://danielasilver.github.io/urban-evolution-observatory/about/evidence-standards.html)
+- [Public coefficient table](https://danielasilver.github.io/urban-evolution-observatory/tables/street-network-remembers-coefficients.csv)
+- [Public model summary](https://danielasilver.github.io/urban-evolution-observatory/tables/street-network-remembers-model-summary.csv)
 
