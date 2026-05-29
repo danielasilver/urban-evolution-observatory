@@ -89,6 +89,6 @@ This is the purpose in miniature: a proposition meets evidence, the evidence cha
 - [Toronto Urban Evolution Model](https://danielasilver.github.io/urban-evolution-observatory/about/toronto-urban-evolution-model.html)
 - [Methods note](https://danielasilver.github.io/urban-evolution-observatory/about/methods.html)
 - [Evidence standards](https://danielasilver.github.io/urban-evolution-observatory/about/evidence-standards.html)
-- [Public coefficient table](https://danielasilver.github.io/urban-evolution-observatory/tables/street-network-remembers-coefficients.csv)
-- [Public model summary](https://danielasilver.github.io/urban-evolution-observatory/tables/street-network-remembers-model-summary.csv)
+- [Public coefficient table](https://danielasilver.github.io/urban-evolution-observatory/tables/street-network-remembers-coefficients.html)
+- [Public model summary](https://danielasilver.github.io/urban-evolution-observatory/tables/street-network-remembers-model-summary.html)
 

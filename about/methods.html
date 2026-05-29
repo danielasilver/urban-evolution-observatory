@@ -3,15 +3,63 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Methods | Urban Evolution Observatory</title>
-  <style>body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.6;max-width:860px;margin:40px auto;padding:0 20px;color:#1f2528}a{color:#075f73}</style>
+  <title>Methods: Early Context And Later Recombination | Urban Evolution Observatory</title>
+  <style>
+    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.6;max-width:900px;margin:40px auto;padding:0 20px;color:#1f2528;background:#f7f7f4}
+    a{color:#075f73;text-decoration-thickness:1px;text-underline-offset:3px}
+    h1{line-height:1.1}
+    h2{margin-top:34px}
+    .lede{font-size:1.1rem;color:#374044;max-width:820px}
+    .note{background:#fff;border-left:4px solid #075f73;padding:16px 18px;margin:22px 0}
+    table{border-collapse:collapse;width:100%;background:#fff;border:1px solid #ddd8cf;margin:18px 0}
+    th,td{padding:10px 12px;border-bottom:1px solid #e6e1d8;text-align:left;vertical-align:top}
+    th{background:#eceae4}
+  </style>
 </head>
 <body>
   <p><a href="../index.html">Urban Evolution Observatory</a></p>
-  <h1>Methods</h1>
-  <p>The Observatory studies urban evolution by translating claims about cities into observable comparisons. A report begins with a proposition, identifies the part of the city that should make the claim visible, and then states what the available data can directly measure and what they can only approximate.</p>
-  <p>The first preview test uses tract-level sequence windows. It compares tracts within the same metropolitan area, so the evidence is not mainly a comparison between different metros. The question is whether tracts with more earlier movement in activity sectors and group context later show more recombination-oriented street-network change, after accounting for inherited street structure.</p>
-  <p>In this test, physical form is measured through road-network change. Groups are measured through broad social-context movement. Activities are measured through broad establishment-sector movement. These are useful first measures, but they are not complete measures of urban recombination. A later activity-recombination outcome still needs to be built from finer-grained establishment and use combinations.</p>
+  <h1>Methods: Early Context And Later Recombination</h1>
+  <p class="lede">This note explains the evidence design behind <a href="../reports/weekly_digest/2026-W23-street-network-remembers.html">When The Street Network Remembers</a> and <a href="../reports/mini_studies/early-context-urban-recombination.html">Does Early Context Produce Later Urban Recombination?</a>.</p>
+
+  <h2>The Claim Being Tested</h2>
+  <p>The public reports ask whether earlier movement in a tract&rsquo;s social and activity context predicts later physical recombination in its street network.</p>
+  <p>Picture two tracts in the same metropolitan area. Both have streets, businesses, residents, and institutions. One tract shows more earlier movement in activity sectors and group context. The other is more stable on those dimensions. The test asks whether the first tract later moves more toward a recombination-oriented street pattern, after accounting for inherited physical structure.</p>
+
+  <h2>Why This Matters For TUEM</h2>
+  <p>The Toronto Urban Evolution Model treats urban places as changing combinations of physical form, groups, and activities. In this study, the physical part is the street network, the group part is broad social context, and the activity part is establishment-sector movement.</p>
+  <p>The broad proposition expected earlier movement in groups and activities to help identify places where later physical recombination would appear. The result challenges that broad version. Inherited street structure carries more of the visible pattern in this first test.</p>
+
+  <h2>Unit And Comparison</h2>
+  <p>The unit is a tract-window: a census tract observed across a time interval. The models compare tracts within the same metropolitan area. That means the evidence is mainly asking why some tracts inside a metro move differently from other tracts in that metro.</p>
+
+  <table>
+    <thead>
+      <tr><th>Concept</th><th>Plain meaning</th><th>Measure in this study</th><th>Status</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Physical form</td><td>Street-network structure and later physical change</td><td>Recombination-oriented change in the road network</td><td>Direct proxy for the physical branch of the proposition</td></tr>
+      <tr><td>Groups</td><td>Changes in the social context of a tract</td><td>Broad group-context movement before the outcome window</td><td>Useful first proxy; too broad to identify specific social mechanisms</td></tr>
+      <tr><td>Activities</td><td>Changes in businesses, services, and uses</td><td>Broad establishment-sector movement before the outcome window</td><td>Useful first proxy; too broad to observe fine-grained activity recombination</td></tr>
+      <tr><td>Inherited physical structure</td><td>The street-network condition a tract begins with</td><td>Starting connector share and built maturity</td><td>Important baseline condition and central result</td></tr>
+    </tbody>
+  </table>
+
+  <h2>What Would Count As Support</h2>
+  <p>Support would mean positive activity and group terms in both model windows. In ordinary language: tracts with more earlier activity-sector movement and more earlier group-context movement would later show more recombination-oriented street-network change.</p>
+
+  <h2>What The Test Found</h2>
+  <p>The activity and group terms are small and uncertain in both windows. Starting connector share is strongly negative in both windows. The result points toward inherited physical structure as the stronger visible predictor in this test.</p>
+  <p>Readers can inspect the two public tables here:</p>
+  <ul>
+    <li><a href="../tables/street-network-remembers-coefficients.html">Coefficient table</a></li>
+    <li><a href="../tables/street-network-remembers-model-summary.html">Model summary</a></li>
+  </ul>
+
+  <h2>What The Test Cannot Settle</h2>
+  <p>This is a test of later physical recombination. It does not yet measure later activity recombination directly. A tract might recombine its businesses, services, routines, or uses before that change appears in the street network. That next branch needs finer-grained establishment and land-use evidence.</p>
+  <div class="note">
+    <p>The methodological implication is simple: the broad proposition should split. One branch studies physical recombination and inherited form. The other branch needs a direct measure of activity recombination.</p>
+  </div>
 </body>
 </html>
 
