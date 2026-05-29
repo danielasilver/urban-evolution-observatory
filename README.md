@@ -2,7 +2,7 @@
 
 The Urban Evolution Observatory studies how cities change.
 
-It grows out of the Theory of Urban Evolution Model, or TUEM: a way of thinking about cities as changing combinations of physical form, groups, and activities. Streets, buildings, residents, organizations, institutions, businesses, services, and everyday routines all have their own histories. Urban evolution happens as these histories become linked, persist, weaken, or recombine.
+It grows out of the Toronto Urban Evolution Model, or TUEM: a way of thinking about cities as changing combinations of physical form, groups, and activities. Streets, buildings, residents, organizations, institutions, businesses, services, and everyday routines all have their own histories. Urban evolution happens as these histories become linked, persist, weaken, or recombine.
 
 The Observatory publishes the public record of a self-evolving research system. Its job is to generate propositions about urban evolution, test them against evidence, revise them, and use those revisions to ask sharper questions.
 
@@ -19,6 +19,8 @@ TUEM gives the Observatory a grammar for these questions.
 - **Activities** means establishments, services, routines, land uses, and everyday functions.
 
 The reports ask how these parts become connected over time, how those connections endure, and when they are rearranged into new urban combinations.
+
+[Read a nontechnical explanation of TUEM](https://danielasilver.github.io/urban-evolution-observatory/about/toronto-urban-evolution-model.html)
 
 ## How The System Evolves
 
@@ -84,6 +86,7 @@ This is the purpose in miniature: a proposition meets evidence, the evidence cha
 ## Public Materials
 
 - [Observatory homepage](https://danielasilver.github.io/urban-evolution-observatory/)
+- [Toronto Urban Evolution Model](https://danielasilver.github.io/urban-evolution-observatory/about/toronto-urban-evolution-model.html)
 - [Methods note](https://danielasilver.github.io/urban-evolution-observatory/about/methods.html)
 - [Evidence standards](https://danielasilver.github.io/urban-evolution-observatory/about/evidence-standards.html)
 - [Public coefficient table](https://danielasilver.github.io/urban-evolution-observatory/tables/street-network-remembers-coefficients.csv)
