@@ -10,11 +10,14 @@
     main, .wrap { max-width: 980px; margin: 0 auto; padding: 32px 20px; }
     h1 { font-size: clamp(2rem, 4vw, 3.4rem); line-height: 1.05; margin: 0 0 16px; letter-spacing: 0; }
     h2 { font-size: 1.35rem; margin-top: 36px; }
-    p { max-width: 760px; }
+    p { max-width: 780px; }
     .lede { font-size: 1.18rem; color: #374044; }
     .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; margin-top: 20px; }
+    .pillgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin-top: 16px; }
     .card { background: #fff; border: 1px solid #ddd8cf; border-radius: 8px; padding: 18px; }
     .card h3 { margin-top: 0; font-size: 1.05rem; }
+    .note { background: #fff; border-left: 4px solid #075f73; padding: 18px 20px; margin-top: 18px; }
+    .step { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .95rem; background: #eceae4; border: 1px solid #d7d1c6; border-radius: 8px; padding: 14px 16px; max-width: 820px; overflow-x: auto; }
     a { color: #075f73; text-decoration-thickness: 1px; text-underline-offset: 3px; }
     .meta { color: #617074; font-size: .95rem; }
     footer { border-top: 1px solid #ddd8cf; color: #617074; }
@@ -25,11 +28,39 @@
     <div class="wrap">
       <h1>Urban Evolution Observatory</h1>
       <p class="lede">Evidence about how cities inherit the past and produce new forms of urban life.</p>
-      <p>The Observatory grows out of TUEM, the Toronto Urban Evolution Model. It publishes propositions about urban evolution, tests them against evidence, revises them, and uses those revisions to ask sharper questions.</p>
+      <p>The Observatory grows out of TUEM, the Toronto Urban Evolution Model. TUEM treats cities as changing combinations of physical form, groups, and activities. This site turns the model into propositions, tests those propositions against evidence, and revises them as the evidence changes.</p>
     </div>
   </header>
   <main>
-    <h2>Current Preview</h2>
+    <h2>What This Site Studies</h2>
+    <p>Cities carry information about how space should be organized, who it is for, and what happens there. A street grid, a cul-de-sac, a shopping strip, a zoning rule, a front porch, or a sidewalk cafe can all carry such information.</p>
+    <p>TUEM calls these pieces of urban information <strong>formemes</strong>. A place has many formemes at once. Their time-stamped bundle is the place signature.</p>
+    <div class="pillgrid">
+      <section class="card">
+        <h3>Physical Form</h3>
+        <p>Streets, parcels, buildings, infrastructure, and spatial layout.</p>
+      </section>
+      <section class="card">
+        <h3>Groups</h3>
+        <p>Residents, organizations, institutions, publics, and social populations.</p>
+      </section>
+      <section class="card">
+        <h3>Activities</h3>
+        <p>Businesses, services, routines, land uses, and everyday urban functions.</p>
+      </section>
+    </div>
+    <p>Urban evolution happens as these parts become linked, persist, weaken, travel, or recombine.</p>
+
+    <h2>How The Research Learns</h2>
+    <p>The Observatory begins with propositions: claims about how cities evolve. A proposition might ask whether inherited street structure shapes later change, whether activities change before buildings do, or whether two places that look similar today arrived there through different histories.</p>
+    <p>Each report asks what the proposition would look like in data. It states what the evidence can observe, what it can only approximate, and what would count as support or challenge. The result then changes the proposition.</p>
+    <div class="step">proposition -> evidence -> interpretation -> revision -> next proposition</div>
+    <div class="note">
+      <p>A proposition can become stronger. It can become narrower. It can split into two claims. It can reveal a missing dataset. It can open a new direction for the model.</p>
+    </div>
+
+    <h2>Current Evidence</h2>
+    <p>The first public evidence set asks whether earlier movement in groups and activities predicts later physical recombination in the street network. The result is mixed: broad group and activity measures are weak, while inherited street structure is much stronger.</p>
     <div class="grid">
       <section class="card">
         <p class="meta">Weekly digest</p>
@@ -48,9 +79,23 @@
       </section>
     </div>
 
-    <h2>How To Read This Site</h2>
-    <p>The reports make uncertainty visible. A result may support a claim, weaken it, split it into narrower claims, or show that a better dataset is needed. Public tables and methods notes let readers inspect the basis for each interpretation.</p>
-    <p><a href="about/toronto-urban-evolution-model.html">Toronto Urban Evolution Model</a> | <a href="about/methods.html">Methods note</a> | <a href="about/evidence-standards.html">Evidence standards</a> | <a href="tables/street-network-remembers-coefficients.csv">Coefficient table</a></p>
+    <h2>Start Here</h2>
+    <p>New readers should begin with the model explanation, then read the digest for the main finding, and then use the mini-study and evidence notes for the details.</p>
+    <div class="grid">
+      <section class="card">
+        <h3><a href="about/toronto-urban-evolution-model.html">Toronto Urban Evolution Model</a></h3>
+        <p>A nontechnical explanation of formemes, signatures, variation, selection, retention, and proposition generation.</p>
+      </section>
+      <section class="card">
+        <h3><a href="about/evidence-standards.html">Evidence Standards</a></h3>
+        <p>How to read support, mixed evidence, contrary results, missing measures, and proposition revision.</p>
+      </section>
+      <section class="card">
+        <h3><a href="about/methods.html">Methods Note</a></h3>
+        <p>The first public test in plain language, including what the data observe and what they approximate.</p>
+      </section>
+    </div>
+    <p><a href="tables/street-network-remembers-coefficients.csv">Public coefficient table</a> | <a href="tables/street-network-remembers-model-summary.csv">Public model summary</a></p>
   </main>
   <footer>
     <div class="wrap">Urban Evolution Observatory</div>
