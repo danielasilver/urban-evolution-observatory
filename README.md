@@ -86,9 +86,16 @@ This is the purpose in miniature: a proposition meets evidence, the evidence cha
 ## Public Materials
 
 - [Observatory homepage](https://danielasilver.github.io/urban-evolution-observatory/)
+- [All reports](https://danielasilver.github.io/urban-evolution-observatory/reports/)
+- [Weekly digests](https://danielasilver.github.io/urban-evolution-observatory/reports/weekly_digest/)
+- [Mini-studies](https://danielasilver.github.io/urban-evolution-observatory/reports/mini_studies/)
+- [Monthly syntheses](https://danielasilver.github.io/urban-evolution-observatory/reports/monthly_synthesis/)
 - [Toronto Urban Evolution Model](https://danielasilver.github.io/urban-evolution-observatory/about/toronto-urban-evolution-model.html)
 - [Methods note](https://danielasilver.github.io/urban-evolution-observatory/about/methods.html)
 - [Evidence standards](https://danielasilver.github.io/urban-evolution-observatory/about/evidence-standards.html)
+- [Sources](https://danielasilver.github.io/urban-evolution-observatory/about/sources.html)
+- [Public tables](https://danielasilver.github.io/urban-evolution-observatory/tables/)
+- [Public figures](https://danielasilver.github.io/urban-evolution-observatory/figures/)
 - [Public coefficient table](https://danielasilver.github.io/urban-evolution-observatory/tables/street-network-remembers-coefficients.html)
 - [Public model summary](https://danielasilver.github.io/urban-evolution-observatory/tables/street-network-remembers-model-summary.html)
 
