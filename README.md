@@ -54,8 +54,7 @@ Current mini-study:
 
 Monthly syntheses describe how recent evidence changes the larger theory.
 
-Current synthesis:  
-[What The First Test Changed](https://danielasilver.github.io/urban-evolution-observatory/reports/monthly_synthesis/2026-06-first-test-update.html)
+No monthly synthesis is public yet. Monthly syntheses are published after the relevant evidence and caveat gates clear.
 
 ## How To Read The Evidence
 
