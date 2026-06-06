@@ -41,7 +41,7 @@ That is the self-evolving part: the theory changes through its encounters with e
 Weekly digests are short, chart-led reports on one finding or puzzle.
 
 Current digest:  
-[When The Street Network Remembers](https://danielasilver.github.io/urban-evolution-observatory/reports/weekly_digest/2026-W23-street-network-remembers.html)
+[Week 23 Update: Streets Remember, The Rest Stays Open](https://danielasilver.github.io/urban-evolution-observatory/reports/weekly_digest/2026-W23-streets-remember-week-close.html)
 
 ### Mini-Studies
 
