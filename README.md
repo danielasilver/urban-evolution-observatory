@@ -48,7 +48,7 @@ Current digest:
 Mini-studies are fuller proposition reports. They explain the claim, give a concrete urban example, translate the theory into measures, report the evidence, and state how the proposition should change.
 
 Current mini-study:  
-[Does Early Context Produce Later Urban Recombination?](https://danielasilver.github.io/urban-evolution-observatory/reports/mini_studies/early-context-urban-recombination.html)
+[Week 23 Mini-Study: Why Streets Remember First](https://danielasilver.github.io/urban-evolution-observatory/reports/mini_studies/week-23-streets-remember-first.html)
 
 ### Monthly Syntheses
 
