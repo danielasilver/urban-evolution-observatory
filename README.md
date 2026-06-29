@@ -41,14 +41,14 @@ That is the self-evolving part: the theory changes through its encounters with e
 Weekly digests are short, chart-led reports on one finding or puzzle.
 
 Current digest:  
-[Week 23 Update: Streets Remember, The Rest Stays Open](https://danielasilver.github.io/urban-evolution-observatory/reports/weekly_digest/2026-W23-streets-remember-week-close.html)
+[No public empirical digest is currently approved](https://danielasilver.github.io/urban-evolution-observatory/reports/weekly_digest/index.html)
 
 ### Mini-Studies
 
 Mini-studies are fuller proposition reports. They explain the claim, give a concrete urban example, translate the theory into measures, report the evidence, and state how the proposition should change.
 
 Current mini-study:  
-[Week 23 Mini-Study: Why Streets Remember First](https://danielasilver.github.io/urban-evolution-observatory/reports/mini_studies/week-23-streets-remember-first.html)
+[No public mini-study is currently approved](https://danielasilver.github.io/urban-evolution-observatory/reports/mini_studies/index.html)
 
 ### Monthly Syntheses
 
@@ -95,6 +95,7 @@ This is the purpose in miniature: a proposition meets evidence, the evidence cha
 - [Sources](https://danielasilver.github.io/urban-evolution-observatory/about/sources.html)
 - [Public tables](https://danielasilver.github.io/urban-evolution-observatory/tables/)
 - [Public figures](https://danielasilver.github.io/urban-evolution-observatory/figures/)
-- [Public coefficient table](https://danielasilver.github.io/urban-evolution-observatory/tables/street-network-remembers-coefficients.html)
-- [Public model summary](https://danielasilver.github.io/urban-evolution-observatory/tables/street-network-remembers-model-summary.html)
+- [How The TUEM Hypothesis Space Is Being Explored](https://danielasilver.github.io/urban-evolution-observatory/explore/hypothesis-exploration.html)
+- [Street-Network Recombination Model Summary](https://danielasilver.github.io/urban-evolution-observatory/tables/street-network-remembers-model-summary.html)
+- [Street-Network Recombination Coefficients](https://danielasilver.github.io/urban-evolution-observatory/tables/street-network-remembers-coefficients.html)
 
